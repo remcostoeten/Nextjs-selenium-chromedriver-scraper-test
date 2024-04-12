@@ -1,4 +1,3 @@
-// pages/api/scrapeHeader.ts
 import { NextApiRequest, NextApiResponse } from 'next';
 import { Builder, By } from 'selenium-webdriver';
 import chrome from 'selenium-webdriver/chrome';
